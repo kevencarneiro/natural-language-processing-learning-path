@@ -6,7 +6,7 @@ I'll try to make this as most objective as possible, trying to focus on concepts
 ## Some of the content that I used to learn NLP
 
 ### Free content
-* [https://course.spacy.io/](Advanced NLP with spaCy) - Thanks to [https://github.com/ines](@ines) for giving us this excellent content
+* [Advanced NLP with spaCy](https://course.spacy.io) - Thanks to [@ines](https://github.com/ines) for giving us this excellent content
 
 ### Paid content
 * Udacity Natural Language Processing Nanodegree
