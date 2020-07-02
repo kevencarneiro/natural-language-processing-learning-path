@@ -15,32 +15,31 @@ I'll try to make this as most objective as possible, trying to focus on concepts
 
 > **Basic Level**
 ### Python
-**What?**
+* **What?**
 Data structures, variables, list manipulation, conditional expressions and loops
 
-**Why?**
+* **Why?**
 Python is a easy language to learn and much domain specific libraries have support to it
 
-**How?**
+* **How?**
 TODO
 
 ### Numpy
-**What?**
+* **What?**
 Array manipulation: Multidimensional arrays and mathematical operations
 
-**Why?**
+* **Why?**
 Numpy is much faster and use less memory. As you'll be using billions of array elements, this will make significant difference. [See more here](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
 
-**How?**
+* **How?**
 TODO
 
 ### Pandas
-**What?**
+* **What?**
 Data manipulation, specially importing from csv and databases
 
-**Why?**
+* **Why?**
 Pandas let you handle data more easily and do some stuff at column level wihtout have to iterating loops [See more here](https://www.quora.com/What-is-the-use-of-pandas-in-Python)
 
-**How?**
-
+* **How?**
 TODO
