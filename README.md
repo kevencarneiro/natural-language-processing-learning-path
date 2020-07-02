@@ -13,7 +13,7 @@ I'll try to make this as most objective as possible, trying to focus on concepts
 
 ## IN PROGRESS: Suggestion of a zero-to-hero path
 
-> **Basic**
+> **Basic Level**
 ### Python
 **What?**
 Data structures, variables, list manipulation, conditional expressions and loops
